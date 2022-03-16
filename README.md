@@ -1,2 +1,2 @@
-# microk8s-odoo
-microk8s-odoo
+# micro-cloud-odoo
+micro-cloud-odoo
