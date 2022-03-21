@@ -8,13 +8,13 @@
 ### Kubernetes Odoo
 ---
 
-## [Project Kanban](https://github.com/orgs/GreenCloud-Consulting/projects/3)
+## [Project Kanban](https://github.com/orgs/314-consulting/projects/3)
 
 ## [Join Discord](https://discord.gg/y4kt5Vp2)
 
-## [Issues](https://github.com/GreenCloud-Consulting/micro-cloud-odoo/issues)
+## [Issues](https://github.com/314-consulting/micro-cloud-odoo/issues)
 
-## [Pull Requests](https://github.com/GreenCloud-Consulting/micro-cloud-odoo/pulls)
+## [Pull Requests](https://github.com/314-consulting/micro-cloud-odoo/pulls)
 
 
 ---
@@ -63,7 +63,7 @@ Freedom to contribute.
 
 Be free to become a sponsor.
 
-[Open Collective](https://opencollective.com/greencloud-consulting)
+[Open Collective](https://opencollective.com/314-consulting)
 
 ## Authors <a name = "authors"></a>
 
