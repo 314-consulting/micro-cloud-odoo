@@ -10,8 +10,6 @@
 
 ## [Project Kanban](https://github.com/orgs/314-consulting/projects/3)
 
-## [Join Discord](https://discord.gg/y4kt5Vp2)
-
 ## [Issues](https://github.com/314-consulting/micro-cloud-odoo/issues)
 
 ## [Pull Requests](https://github.com/314-consulting/micro-cloud-odoo/pulls)
